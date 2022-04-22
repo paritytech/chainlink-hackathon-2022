@@ -9,11 +9,13 @@ There are three tracks:
 
 1. ink! Smart Contracts Track
 
+    - Grand Prize - the best project in this track: Winner - $10.000 USD
     - [Write ink! smart contracts for an oracle Substrate chain](#build-a-substrate-oracle-chain-and-write-an-ink-smart-contract-that-utilizes-the-oracle-information): Winner - $5.000 USD
     - Recreate your favourite dApp in ink!: Top two - $5.000 USD each 
 
 1. Polkadot Improvement Track
 
+    - Grand Prize - the best project in this track: Winner - $10.000 USD
     - [Make writing Wasm smart contracts more accessible](#enable-writing-smart-contracts-for-substrates-pallet-contracts-in-a-new-language) in other languages: Winner - $5.000 USD
     - Update and integrate the Chainlink <> Polkadot Pallets to a local parachain: Winner - $5.000 USD
     - [Create a webapp UI for a pallet or an existing ink! smart contract of your choice](#implement-a-dapp-user-interface-for-our-example-contracts): Winner - $5.000 USD
@@ -21,6 +23,7 @@ There are three tracks:
 
 1. Parachains and Pallets Track
     
+    - Grand Prize - the best project in this track: Winner - $10.000 USD
     - Best smart contract deployed to a Polkadot Parachain: Winner - $5.000 USD
     - Best pallet to integrate with a Polkadot parachain: Winner - $5.000 USD
 
