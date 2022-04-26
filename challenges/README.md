@@ -171,6 +171,12 @@ You could think about how to abstract things away in your CLI.
 
 Want to be the star of this hackathon and create a Substrate chain that can interact with a Chain link node? 🤩
 
-[ insert links etc. ]
+#### Task guidelines
 
+1. Implement an off-chain worker for a Substrate chain.
+1. Create a pallet that can interact with a Chainlink node. 
+3. Implement a dispatchable function that can request data from the Chainlink node and safely update an item in another pallet's storage.
+4. (bonus) Implement XCM so that your Chainlink pallet can send messages to another parachain.
+
+You can have a look at an outdated Chainlink pallet implementation [here](https://github.com/smartcontractkit/chainlink-polkadot) to help you understand what the integration could look like.
 Talk to us if you have a project idea and aren't sure whether it fits any of these tracks! 😃
