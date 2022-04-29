@@ -22,6 +22,8 @@ You can treat these as guidelines for the type of submissions we'd expect:
 | 3. Parachains and pallets track | Best smart contract deployed to a Polkadot Parachain | $5k |
 | | Best pallet to integrate to a Polkadot Parachain | $5k |
 
+Each track has a Grand Prize of $10k for submissions that combine various implementation details and go beyond the scope of what's proposed in each challenge. 
+
 Below is a more detailed breakdown of the work that each of these exemplar bounties would require (and a little context about why they're exciting to work on!). 👀
 
 ### Make writing Wasm smart contracts for Substrate chains more accessible in other languages.
